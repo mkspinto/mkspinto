@@ -1,4 +1,7 @@
-### Hi there 👋
+### Olá pessoal! 👋
+
+:rocket: Atualmente estou como Software Engineering Lead na @wevo.io<br>
+:blue_book: Sou desenvolver de software Backend com foco em .NET C# e entusiasta de NodeJS.
 
 <!--
 **mkspinto/mkspinto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
